@@ -1,3 +1,8 @@
+---
+date: {{Date:YYYY-MM-DD}}
+score: 60
+study: 5
+---
 ## Daily Report({{date:YYYY-MM-DD}})
 ### 取り組んだこと
 #### MUST

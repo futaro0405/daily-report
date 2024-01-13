@@ -45,7 +45,18 @@ bestFitNumber: 0
 ```dataview
 table
 date, study, score
-from "2024/01-January/2nd"
+from "2024/01-January"
 where file.day >= date("2024-01-07")
 　AND file.day <= date("2024-01-13")
+```
+
+
+```dataviewjs
+const k = ["a", "b", "c"]
+const d = [
+	[100, 10, 50],
+	[100, 10, 50],
+	[100, 10, 50],
+	]
+dv.table(k, d)
 ```
