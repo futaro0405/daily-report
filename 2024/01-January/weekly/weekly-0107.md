@@ -29,3 +29,15 @@
 | 01/13 | [2024-01-13](2024-01-13.md)  | 1 |
 ^daily
 
+```chart
+type: line
+id: daily
+tension: 0.43
+width: 92%
+labelColors: false
+fill: true
+beginAtZero: true
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```
