@@ -1,18 +1,25 @@
-# Daily Report({{date:YYYY-MM-DD}})
-## 取り組んだこと
-### MUST
+---
+date: {{date:YYYY-MM-DD}}
+week: {{date:YYYY-Wo}}
+score: 0
+study: 0
+---
+
+## Daily Report({{date:YYYY-MM-DD}})
+### 取り組んだこと
+#### MUST
 - XXXXX
-### WANT
+#### WANT
 - XXXXX
-## わかったこと
+### わかったこと
 - XXXXX
-## 次やること
-### MUST
+### 次やること
+#### MUST
 - XXXXX
-### WANT
+#### WANT
 - XXXXX
-## 感じたこと
+### 感じたこと
 XXXXX
-## 学習時間
+### 学習時間
 - TODAY: Xh
 - TOTAL: XXXh
