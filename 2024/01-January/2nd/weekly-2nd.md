@@ -52,20 +52,3 @@ bestFitTitle: undefined
 bestFitNumber: 0
 ```
 
-## Charts
-
-```chart
-type: line
-labels: [a, b, c]
-series:
-  - title: aaa
-    data: [1,7, 2]
-tension: 0.29
-width: 92%
-labelColors: false
-fill: false
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
