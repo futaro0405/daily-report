@@ -1,11 +1,3 @@
----
-year: 2024
-month: 01-January
-week: 1st
-date: 2024-01-07
-score: 0
-study: 0
----
 ## 自己評価
 40/100
 ## 勉強時間
@@ -37,34 +29,3 @@ study: 0
 | 01/13 | [2024-01-13](2024-01-13.md)  | 1 |
 ^daily
 
-```chart
-type: line
-id: daily
-tension: 0.29
-width: 90%
-labelColors: false
-fill: false
-beginAtZero: false
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
-
-```dataview
-table
-date, study, score
-from "2024/01-January"
-where file.day >= date("2024-01-06")
-　AND file.day <= date("2024-01-12")
-```
-^week
-
-```dataviewjs
-const pages = dv.pages("2024 01-January")
-.filter(p => p.file.day >= date("2024-01-06") && file.day <= date("2024-01-12"));
-const k = ["date", "score", "study"]
-const d = [
-	[]
-]
-dv.table(k, d)
-```

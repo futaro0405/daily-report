@@ -1,12 +1,3 @@
----
-year: {{date:YYYY}}
-month: {{date:MM-MMMM}}
-week: {{date:Wo}}
-date: {{date:YYYY-MM-DD}}
-score: 0
-study: 0
----
-
 ## Daily Report({{date:YYYY-MM-DD}})
 ### 取り組んだこと
 #### MUST

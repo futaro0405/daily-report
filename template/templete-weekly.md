@@ -1,11 +1,3 @@
----
-year: {{date:YYYY}}
-month: {{date:MM-MMMM}}
-week: {{date:Wo}}
-date: {{date:YYYY-MM-DD}}
-score: 0
-study: 0
----
 ## 自己評価
 /100
 ## 勉強時間
