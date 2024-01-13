@@ -60,3 +60,36 @@ const d = [
 	]
 dv.table(k, d)
 ```
+
+```dataviewjs
+const pages = dv.pages('#daily-report').filter(p => p.file.name > ""2024-01-01")
+
+function extract(pages, key) {
+  return pages.map(p => p[key]).values
+}
+
+const days = pages.map(p => p.file.name).values  
+const scores =  extract(pages, 'score')
+
+function scoreChart(terms, data) {
+  return {
+    type: 'line',
+    data: {
+      labels: terms,  
+      datasets: [{
+        label: 'Mark',
+        data: data,
+        backgroundColor: ['rgba(99, 255, 132, 0.2)'],  
+        borderColor: ['rgba(99, 255, 132, 1)'],  
+        borderWidth: 1,
+      tension: 0.3
+      }]
+    }
+  }
+}
+
+const dailyScore = scoreChart(days, scores)
+
+window.renderChart(dailyScore, this.container)
+
+```
