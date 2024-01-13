@@ -27,3 +27,45 @@
 | [2024-01-11](2024-01-11.md)  | 1 |
 | [2024-01-12](2024-01-12.md)  | 1 |
 | [2024-01-13](2024-01-13.md)  | 1 |
+
+| Date | time |
+| ---- | ---- |
+| 07 | 5 |
+| 08 | 6 |
+| 09 | 2 |
+| 10 | 12 |
+| 11 | 10 |
+| 12 | 4 |
+| 13 | 2 |
+^daily
+
+```chart
+type: line
+id: daily
+tension: 0.29
+width: 90%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```
+
+## Charts
+
+```chart
+type: line
+labels: [a, b, c]
+series:
+  - title: aaa
+    data: [1,7, 2]
+tension: 0.29
+width: 92%
+labelColors: false
+fill: false
+beginAtZero: true
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```
