@@ -41,3 +41,11 @@ bestFit: false
 bestFitTitle: undefined
 bestFitNumber: 0
 ```
+
+```dataview
+table
+date, study, score
+from "2024/01-January/2nd"
+where file.day >= date("2024-01-07")
+　AND file.day <= date("2024-01-13")
+```
