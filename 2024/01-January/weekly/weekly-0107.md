@@ -60,9 +60,11 @@ where file.day >= date("2024-01-06")
 ^week
 
 ```dataviewjs
-const pages = dv.pages('01-January')
-		.filter(p => p.file.day >= date("2024-01-06")
-				&& file.day <= date("2024-01-12"))
+const k = ["Date", "score", "study"]
+d = dv.pages("2024 01-January").where(x => (
+file.day >= date("2024-01-06") && file.day <= date("2024-01-13")))
 
-dv.table
+dv.table(["Date", "score", "study"],
+	d.map(x => [x.date, x.score, x.study])
+);
 ```
