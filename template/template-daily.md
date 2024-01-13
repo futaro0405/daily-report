@@ -1,6 +1,8 @@
 ---
+year: {{date:YYYY}}
+month: {{date:MM-MMMM}}
+week: {{date:Wo}}
 date: {{date:YYYY-MM-DD}}
-week: {{date:YYYY-Wo}}
 score: 0
 study: 0
 ---
