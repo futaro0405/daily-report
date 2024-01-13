@@ -60,11 +60,58 @@ where file.day >= date("2024-01-06")
 ^week
 
 ```dataviewjs
-const k = ["Date", "score", "study"]
-d = dv.pages("2024 01-January").where(x => (
-file.day >= date("2024-01-06") && file.day <= date("2024-01-13")))
+const pages = dv.pages('2024/01-January')
+.filter(p => p.file.name > "2024-01-05")
+.sort(p => p.file.name);
 
-dv.table(["Date", "score", "study"],
-	d.map(x => [x.date, x.score, x.study])
-);
+function extract(pages, key) {
+  return pages.map(p => p[key]).values
+}
+
+const days = pages.map(p => p.file.name).values
+const scores = extract(pages, 'score')
+const studies = extract(pages, 'study')
+
+function scoreChart(terms, data) {
+  return {
+    type: 'line',
+    data: {
+      labels: terms,  
+      datasets: [{
+        label: 'Mark',
+        data: data,
+        backgroundColor: ['rgba(99, 255, 132, 0.2)'],  
+        borderColor: ['rgba(99, 255, 132, 1)'],  
+        borderWidth: 1,
+      tension: 0.3
+      }]
+    }
+  }
+}
+
+function meetingChart(terms, score, study) {
+  return {
+    type: 'bar',
+    data: {
+      labels: terms,
+      datasets: [{
+        label: 'score',
+        data: score,
+        borderColor: ['rgba(99, 132, 255, 1)'],
+        backgroundColor: ['rgba(99, 132, 255, 0.7)']
+      },{
+        label: 'study',
+        data: study,
+        borderColor: ['rgba(255, 99, 132, 1)'],
+        backgroundColor: ['rgba(255, 99, 132, 0.7)']
+      }]
+    }
+  }
+}
+
+const dailyScore = scoreChart(days, scores)
+const dailyMeeting = meetingChart(days, scores, studies)
+
+window.renderChart(dailyScore, this.container)
+window.renderChart(dailyMeeting, this.container)
 ```
