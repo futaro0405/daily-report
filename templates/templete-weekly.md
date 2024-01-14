@@ -23,7 +23,7 @@ where file.day >= date("{{Date:YYYY-MM-DD}}")
 ```
 
 ```dataviewjs
-const pages = dv.pages('#daily-report').filter(p => p.file.name > "2024-01-02").sort(p => p.file.name);
+const pages = dv.pages('#daily').filter(p => p.file.name > "2024-01-02").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
