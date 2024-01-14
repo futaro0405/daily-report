@@ -41,12 +41,12 @@ function scoreChart(terms, data) {
   return {
     type: 'line',
     data: {
-      labels: terms,  
+      labels: terms,
       datasets: [{
         label: 'Mark',
         data: data,
-        backgroundColor: ['rgba(99, 255, 132, 0.2)'],  
-        borderColor: ['rgba(99, 255, 132, 1)'],  
+        backgroundColor: ['rgba(255, 99, 132, 0.7)'],  
+        borderColor: ['rgba(255, 99, 132, 1)'],  
         borderWidth: 1,
       tension: 0.3
       }]
@@ -54,11 +54,30 @@ function scoreChart(terms, data) {
   }
 }
 
+function barChart(terms, scores, studies) {
+  return {
+    type: 'bar',
+    data: {
+      labels: terms,
+      datasets: [{
+        label: 'scores',
+        data: scores,
+        borderColor: ['rgba(99, 132, 255, 1)'],
+        backgroundColor: ['rgba(99, 132, 255, 0.7)']
+      },{
+        label: 'studies',
+        data: studies,
+        borderColor: ['rgba(255, 99, 132, 1)'],
+        backgroundColor: ['rgba(255, 99, 132, 0.7)']
+      }]
+    }
+  }
+}
+
 const dailyScore = scoreChart(days, scores)
-const dailystudies = scoreChart(days, studies)
+const dailyBar = barChart(days, scores, studies)
 
 window.renderChart(dailyScore, this.container)
-window.renderChart(dailystudies, this.container)
+window.renderChart(dailyBar, this.container)
 ```
-
 
