@@ -40,15 +40,50 @@ const studies = extract(pages, 'study')
 function scoreChart(terms, data) {
   return {
     type: 'line',
+    options: {
+	    width: '100%',
+		scales: {
+			y: {
+				beginAtZero: true
+			}
+		}
+	},
     data: {
       labels: terms,
       datasets: [{
         label: 'Mark',
         data: data,
-        backgroundColor: ['rgba(255, 99, 132, 0.7)'],  
+        backgroundColor: ['rgba(255, 99, 132, 0.1)'],  
         borderColor: ['rgba(255, 99, 132, 1)'],  
         borderWidth: 1,
-      tension: 0.3
+        tension: 0.2,
+		fill: true,
+      }]
+    }
+  }
+}
+
+function studyChart(terms, data) {
+  return {
+    type: 'line',
+    options: {
+	    width: '100%',
+		scales: {
+			y: {
+				beginAtZero: true
+			}
+		}
+	},
+    data: {
+      labels: terms,
+      datasets: [{
+        label: 'Mark',
+        data: data,
+        backgroundColor: ['rgba(99, 132, 255, 0.1)'],  
+        borderColor: ['rgba(99, 132, 255, 1)'],  
+        borderWidth: 1,
+		tension: 0.2,
+		fill: true,
       }]
     }
   }
@@ -75,9 +110,8 @@ function barChart(terms, scores, studies) {
 }
 
 const dailyScore = scoreChart(days, scores)
-const dailyBar = barChart(days, scores, studies)
+const dailyStudy = studyChart(days, studies)
 
 window.renderChart(dailyScore, this.container)
-window.renderChart(dailyBar, this.container)
+window.renderChart(dailyStudy, this.container)
 ```
-
