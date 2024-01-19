@@ -1,9 +1,11 @@
 ## 自己評価
 50/100
 ## 勉強時間
-32h
+29h
 ## 良かったこと
-- xxxxx
+- 先週に引き続き、朝ジムに行くルーティーンを続けたこと
+- Obsidianを使ってknowledgeのまとめ方を工夫できたこと
+- 
 ## 悪かったこと
 - xxxxx
 ## 改善すること(ネクストアクション)
@@ -27,8 +29,8 @@ sum(rows.study) as totalTime,
 round(sum(rows.study) / length(rows), 0) as avgTime,
 round(sum(rows.score) / length(rows), 0) as avgScore
 from "2024/01-January"
-GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
-WHERE rows.date
+GROUP BY date(date).week as week
+WHERE rows.date >= date("2024-01-13")
 ```
 
 
