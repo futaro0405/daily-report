@@ -23,11 +23,12 @@ where file.day >= date("2024-01-13")
 
 ```dataview
 table
-sum(rows.study) as total
-length(rows) as count
+sum(rows.study) as total,
+length(rows) as count,
+round(sum(rows.study) / length(rows), 0) as avg
 from "2024/01-January"
 GROUP BY date(date).year + "-" + date(date).month as date
-WHERE rows.date 
+WHERE rows.date >= date()
 ```
 
 
