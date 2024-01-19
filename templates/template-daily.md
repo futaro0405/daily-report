@@ -6,9 +6,9 @@ study: 0
 ## Daily Report({{date:YYYY-MM-DD}})
 ### 取り組んだこと
 #### MUST
-- XXXXX
+- [ ] xxxxxx
 #### WANT
-- XXXXX
+- [ ] xxxxxx
 ### わかったこと
 - XXXXX
 ### 次やること
