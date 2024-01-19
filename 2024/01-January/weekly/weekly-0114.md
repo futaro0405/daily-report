@@ -13,21 +13,26 @@
 ## 感想・来週の目標
 - xxxxx
 
-today:: 2024-01-01
-length:: 3day
-
 ```dataview
 table
 date, study, score
 from "2024/01-January"
-where file.day >= date("2024-01-14")
-　AND file.day <= date("2024-01-20")
+where file.day >= date("2024-01-13")
+　AND file.day <= date("2024-01-19")
+```
+
+```dataview
+table
+sum(study)
+from "2024/01-January"
+where file.day >= date("2024-01-13")
+　AND file.day <= date("2024-01-19")
 ```
 
 
 
 ```dataviewjs
-const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "2024-01-13" && p.file.name < "2024-01-21").sort(p => p.file.name);
+const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "2024-01-12" && p.file.name < "2024-01-20").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
@@ -51,7 +56,7 @@ function scoreChart(terms, data) {
     data: {
       labels: terms,
       datasets: [{
-        label: 'Mark',
+        label: 'score',
         data: data,
         backgroundColor: ['rgba(255, 99, 132, 0.1)'],  
         borderColor: ['rgba(255, 99, 132, 1)'],  
@@ -77,7 +82,7 @@ function studyChart(terms, data) {
     data: {
       labels: terms,
       datasets: [{
-        label: 'Mark',
+        label: 'time',
         data: data,
         backgroundColor: ['rgba(99, 132, 255, 0.1)'],  
         borderColor: ['rgba(99, 132, 255, 1)'],  

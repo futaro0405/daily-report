@@ -47,7 +47,7 @@ function scoreChart(terms, data) {
     data: {
       labels: terms,
       datasets: [{
-        label: 'Mark',
+        label: 'score',
         data: data,
         backgroundColor: ['rgba(255, 99, 132, 0.1)'],  
         borderColor: ['rgba(255, 99, 132, 1)'],  
@@ -73,7 +73,7 @@ function studyChart(terms, data) {
     data: {
       labels: terms,
       datasets: [{
-        label: 'Mark',
+        label: 'time',
         data: data,
         backgroundColor: ['rgba(99, 132, 255, 0.1)'],  
         borderColor: ['rgba(99, 132, 255, 1)'],  
