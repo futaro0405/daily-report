@@ -5,15 +5,16 @@
 ## 良かったこと
 - 先週に引き続き、朝ジムに行くルーティーンを続けたこと
 - Obsidianを使ってknowledgeのまとめ方を工夫できたこと
-- 
+- 平日の勉強時間を先週よりも確保できたこと
+- 工夫して勉強中にスマホを触らないようにできたこと
 ## 悪かったこと
-- xxxxx
+- 勉強時間の確保のため、睡眠の時間を削ってしまったこと
 ## 改善すること(ネクストアクション)
-- xxxxx
+- times、twitterをもっと活用する
 ## 質問・相談など(もしあれば)
-- xxxxx
+- 特になし
 ## 感想・来週の目標
-- xxxxx
+- スマホのスクリーンタイムを抑えれるようになってきたので来週は平均1時間未満を目指したい
 
 ```dataview
 table
@@ -30,7 +31,7 @@ round(sum(rows.study) / length(rows), 0) as avgTime,
 round(sum(rows.score) / length(rows), 0) as avgScore
 from "2024/01-January"
 GROUP BY date(date).week as week
-WHERE rows.date >= date("2024-01-13")
+WHERE rows.date
 ```
 
 
