@@ -27,8 +27,8 @@ sum(rows.study) as total,
 length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avg
 from "2024/01-January"
-GROUP BY date(date).year + "-" + date(date).month as date
-WHERE rows.date >= date()
+GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
+WHERE rows.date
 ```
 
 
