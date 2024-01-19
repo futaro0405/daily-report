@@ -23,10 +23,11 @@ where file.day >= date("2024-01-13")
 
 ```dataview
 table
-sum(study)
+sum(rows.study) as total
+length(rows) as count
 from "2024/01-January"
-where file.day >= date("2024-01-13")
-　AND file.day <= date("2024-01-19")
+GROUP BY date(date).year + "-" + date(date).month as date
+WHERE rows.date 
 ```
 
 
