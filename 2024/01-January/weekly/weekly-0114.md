@@ -1,5 +1,5 @@
 ## 自己評価
-/100
+50/100
 ## 勉強時間
 32h
 ## 良かったこと
@@ -23,9 +23,9 @@ where file.day >= date("2024-01-13")
 
 ```dataview
 table
-sum(rows.study) as total,
-length(rows) as count,
-round(sum(rows.study) / length(rows), 0) as avg
+sum(rows.study) as totalTime,
+round(sum(rows.study) / length(rows), 0) as avgTime,
+round(sum(rows.score) / length(rows), 0) as avgScore
 from "2024/01-January"
 GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
 WHERE rows.date

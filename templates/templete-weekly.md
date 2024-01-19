@@ -19,7 +19,17 @@ table
 date, study, score
 from "2024/01-January"
 where file.day >= date("{{Date:YYYY-MM-DD}}")
-　AND file.day <= date("{{Date:YYYY-MM-DD}} +4")
+　AND file.day <= date("{{Date:YYYY-MM-DD}}")
+```
+
+```dataview
+table
+sum(rows.study) as total,
+length(rows) as count,
+round(sum(rows.study) / length(rows), 0) as avg
+from "2024/01-January"
+GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
+WHERE rows.date
 ```
 
 ```dataviewjs
