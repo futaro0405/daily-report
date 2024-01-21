@@ -27,6 +27,7 @@ where file.day >= date("2024-01-13")
 ```dataview
 table
 sum(rows.study) as totalTime,
+length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avgTime,
 round(sum(rows.score) / length(rows), 0) as avgScore
 from "2024/01-January"
