@@ -64,9 +64,9 @@ function scoreChart(terms, data) {
       datasets: [{
         label: 'score',
         data: data,
-        backgroundColor: ['rgba(255, 99, 132, 0.1)'],  
+        backgroundColor: ['rgba(255, 99, 132, 0.2)'],  
         borderColor: ['rgba(255, 99, 132, 1)'],  
-        borderWidth: 1,
+        borderWidth: 2,
         tension: 0.2,
 		fill: true,
       }]
@@ -90,9 +90,9 @@ function studyChart(terms, data) {
       datasets: [{
         label: 'time',
         data: data,
-        backgroundColor: ['rgba(99, 132, 255, 0.1)'],  
-        borderColor: ['rgba(99, 132, 255, 1)'],  
-        borderWidth: 1,
+        backgroundColor: ['rgba(99, 132, 255, 0.2)'],
+        borderColor: ['rgba(99, 132, 255, 1)'],
+        borderWidth: 2,
 		tension: 0.2,
 		fill: true,
       }]
