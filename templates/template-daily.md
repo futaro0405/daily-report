@@ -18,12 +18,12 @@ meal: 100
 ### WANT
 - text
 ## わかったこと
-- text text text
+- text
 ## 感じたこと
-XXXXX
+text text text text text text text text text text text text
 ## 学習時間
-- TODAY: Xh
-- TOTAL: XXXh
+- TODAY: 00 h
+- TOTAL: 000 h
 
 # Day planner
 ## Daily routine
