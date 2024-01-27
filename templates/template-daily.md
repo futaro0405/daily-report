@@ -26,6 +26,6 @@ XXXXX
 - TOTAL: XXXh
 
 # Day planner
-- [ ] 06:10 - 06:30 gem
-- [ ] 07:00 - 08:00 gem
-- [ ] 07:00 - 08:00 gem
+- [ ] 05:50 - 06:10 wake up
+- [ ] 07:00 - 08:00 traininng
+- [ ] 08:00 - 08:30 shower
