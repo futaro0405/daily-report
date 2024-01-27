@@ -4,20 +4,20 @@ weekly: {{Date:wo}}
 score: 00
 sleep: 0.0
 study: 0
-meal: 00
+meal: 100
 ---
 ## Daily Report({{date:YYYY-MM-DD}})
 ### 取り組んだこと
 #### MUST
-- [ ] xxxxxx
+- [ ] text
 #### WANT
-- [ ] xxxxxx
-### わかったこと
-- XXXXX
+- [ ] text
 ### 次やること
 #### MUST
-- XXXXX
+- text
 #### WANT
+- text
+### わかったこと
 - XXXXX
 ### 感じたこと
 XXXXX
