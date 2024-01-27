@@ -1,8 +1,9 @@
 ---
 date: {{Date:YYYY-MM-DD}}
 weekly: {{Date:wo}}
-score: 00
+sleep: 0.0
 study: 0
+score: 00
 ---
 ## Daily Report({{date:YYYY-MM-DD}})
 ### 取り組んだこと
