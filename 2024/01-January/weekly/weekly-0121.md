@@ -1,17 +1,20 @@
 ## 自己評価
-/100
+50/100
 ## 勉強時間
-32h
+31h
 ## 良かったこと
-- xxxxx
+- 先週に引き続き、朝ジムに行くルーティーンを続けたこと
+- ActiveStorageのうまくいかない原因を突き止められたこと
 ## 悪かったこと
-- xxxxx
+- ActiveStorage攻略に時間がかかったこと
+- 食生活が少し乱れたこと
 ## 改善すること(ネクストアクション)
-- xxxxx
+- 英語の勉強を並行して始めたい
+- 食事・睡眠のデータも集めてみる
 ## 質問・相談など(もしあれば)
-- xxxxx
+- なし
 ## 感想・来週の目標
-- xxxxx
+- 勉強時間を先週より少し伸ばせたのでこのまま進みたい
 
 
 ```dataview
@@ -19,7 +22,7 @@ table
 date, study, score
 from "2024/01-January"
 where file.day >= date("2024-01-21")
-　AND file.day <= date("2024-01-21")
+　AND file.day <= date("2024-01-27")
 ```
 
 ```dataview
@@ -33,7 +36,7 @@ WHERE rows.date
 ```
 
 ```dataviewjs
-const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "2024-01-21" && p.file.name < "2024-01-21").sort(p => p.file.name);
+const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "2024-01-20" && p.file.name < "2024-01-28").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
