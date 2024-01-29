@@ -1,4 +1,3 @@
-リポジトリをリネームして自分のアカウントは以下で開発する方法
 ## 1.リポジトリをクローンする
 ```
 git clone xxx
@@ -22,4 +21,4 @@ git remote add origin https://github.com/futaro0405/rails_ec.git
 ```
 git push -u origin main
 ```
-ref:
+ref:[[GitHub] httpsでremote: Repository not found.となった時の対応方法](https://zenn.dev/nasubita/articles/b4d9cfaf0b6a78)
