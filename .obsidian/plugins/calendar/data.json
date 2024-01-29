@@ -3,8 +3,8 @@
   "weekStart": "sunday",
   "wordsPerDot": 100,
   "showWeeklyNote": true,
-  "weeklyNoteFormat": "YYYY/MM-MMMM/[weekly]/[weekly]-MMDD",
-  "weeklyNoteTemplate": "templates/templete-weekly",
+  "weeklyNoteFormat": "[daiily-note]/YYYY/MM-MMMM/[weekly]/[weekly]-MMDD",
+  "weeklyNoteTemplate": "config/templates/templete-weekly",
   "weeklyNoteFolder": "",
   "localeOverride": "system-default"
 }

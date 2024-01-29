@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9a9d65075b8547",
+        "id": "361cc84c8329a3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "93a4db4448077d27",
+            "id": "462d07f3e9043dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/01-January/2024-01-29.md"
+                "file": "daiily-note/2024/01-January/2024-01-29.md"
               }
             }
           },
@@ -190,52 +190,52 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "93a4db4448077d27",
+  "active": "4250a769dbaebf9b",
   "lastOpenFiles": [
-    "config",
-    "2024/01-January/2024-01-28.md",
+    "notes/outputs",
+    "notes/knowledge",
+    "daiily-note/2024/01-January/weekly/weekly-0128.md",
+    "daiily-note/2024/01-January/2024-01-29.md",
     "2024/01-January/2024-01-29.md",
-    "2024/01-January/2024-01-27.md",
-    "templates/template-daily.md",
-    "2024/01-January/weekly/weekly-0121.md",
-    "2024/01-January/2024-01-22.md",
-    "2024/01-January/2024-01-24.md",
-    "2024/01-January/2024-01-23.md",
-    "2024/01-January/2024-01-26.md",
-    "templates/templete-weekly.md",
-    "2024/01-January/Untitled.md",
-    "2024/01-January/Rendercom.md",
-    "knowledge/ruby/class/ruby-book/test/gate_test.rb",
-    "knowledge/ruby/class/ruby-book/lib/ticket.rb",
-    "knowledge/ruby/class/ruby-book/lib/gate.rb",
-    "knowledge/ruby/class/ruby-book/test",
-    "knowledge/ruby/class/ruby-book/lib",
-    "knowledge/ruby/repeat-process/control-structure.md",
-    "knowledge/ruby/regular_expression/01_regular_expression.md",
-    "knowledge/ruby/module/module_overview.md",
-    "knowledge/ruby/method/Method-visibility.md",
-    "knowledge/ruby/class/ruby-book",
-    "knowledge/ruby/class/01_class.md",
-    "knowledge/ruby/011_pattern_match/03_andmore.md",
-    "knowledge/ruby/011_pattern_match/02_usecase.md",
-    "knowledge/ruby/011_pattern_match/01_pattern_match.md",
-    "knowledge/ruby/010_yield_and_proc/003_proc_andmore.md",
-    "knowledge/ruby/010_yield_and_proc/002_proc.md",
-    "knowledge/ruby/010_yield_and_proc/001_yield_and_method.md",
-    "knowledge/ruby/009_exception/04_exception_andmore.md",
-    "knowledge/ruby/009_exception/03_exception_bestPractice.md",
-    "knowledge/git/image/img_rm.png",
-    "knowledge/git/image/img_reset.png",
-    "knowledge/git/image/img_checkout.png",
-    "knowledge/git/image/img_diff.png",
-    "knowledge/git/image/img_01.png",
-    "knowledge/ruby/repeat-process",
-    "knowledge/ruby/regular_expression",
-    "knowledge/ruby/module",
-    "knowledge/ruby/method",
-    "knowledge/git/image.png",
-    "knowledge/git/image-2.png",
-    "knowledge/git/image-1.png",
+    "daiily-note/2024/01-January/weekly/weekly-0121.md",
+    "daiily-note/2024/01-January/weekly/weekly-0114.md",
+    "daiily-note/2024/01-January/weekly/weekly-0107.md",
+    "daiily-note/2024/01-January/weekly",
+    "daiily-note/2024/01-January/2024-01-28.md",
+    "daiily-note/2024/01-January/2024-01-27.md",
+    "daiily-note/2024/01-January/2024-01-26.md",
+    "daiily-note/2024/01-January/2024-01-25.md",
+    "daiily-note/2024/01-January/2024-01-24.md",
+    "daiily-note/2024/01-January/2024-01-23.md",
+    "daiily-note/2024/01-January/2024-01-22.md",
+    "daiily-note/2024/01-January/2024-01-21.md",
+    "daiily-note/2024/01-January/2024-01-20.md",
+    "daiily-note/2024/01-January/2024-01-19.md",
+    "daiily-note/2024/01-January/2024-01-18.md",
+    "daiily-note/2024/01-January/2024-01-17.md",
+    "daiily-note/2024/01-January/2024-01-16.md",
+    "daiily-note/2024/01-January/2024-01-15.md",
+    "daiily-note/2024/01-January/2024-01-14.md",
+    "daiily-note/2024/01-January/2024-01-13.md",
+    "daiily-note/2024/01-January/2024-01-12.md",
+    "daiily-note/2024/01-January/2024-01-11.md",
+    "daiily-note/2024/01-January/2024-01-10.md",
+    "daiily-note/2024/01-January",
+    "daiily-note/2024",
+    "daiily-note/2023/12-December/1002431/12/20232023",
+    "daiily-note/2023/12-December/1002431/12",
+    "daiily-note/2023/12-December/1002431",
+    "daiily-note/2023/12-December",
+    "daiily-note/2023/11-November",
+    "daiily-note/2023/10-October",
+    "notes/knowledge/git/image/img_rm.png",
+    "notes/knowledge/git/image/img_reset.png",
+    "notes/knowledge/git/image/img_checkout.png",
+    "notes/knowledge/git/image/img_diff.png",
+    "notes/knowledge/git/image/img_01.png",
+    "notes/knowledge/git/image.png",
+    "notes/knowledge/git/image-2.png",
+    "notes/knowledge/git/image-1.png",
     "note/knowledge/git/image/img_rm.png",
     "note/knowledge/git/image/img_reset.png"
   ]
