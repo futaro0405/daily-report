@@ -1,0 +1,14 @@
+{
+  "accentColor": "#388580",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "interfaceFontFamily": "メイリオ",
+  "textFontFamily": "メイリオ",
+  "monospaceFontFamily": "メイリオ",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "baseFontSizeAction": true
+}
