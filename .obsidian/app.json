@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "attachmentFolderPath": "/",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
