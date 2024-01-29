@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/knowledge/git/rename.md",
-                "mode": "preview",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/knowledge/git/rename.md",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/knowledge/git/rename.md",
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/knowledge/git/rename.md"
+                "file": "daiily-note/2024/01-January/2024-01-29.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "8aa146b95dc898bf",
   "lastOpenFiles": [
-    "README.md",
     "notes/knowledge/git/rename.md",
+    "README.md",
     "daiily-note/2024/01-January/2024-01-29.md",
     "daiily-note/2024/01-January/Untitled.md",
     "notes/outputs",
