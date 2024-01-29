@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "462d07f3e9043dc5",
+            "id": "f8289badc04e0c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,12 +190,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4250a769dbaebf9b",
+  "active": "f8289badc04e0c72",
   "lastOpenFiles": [
+    "daiily-note/2024/01-January/2024-01-29.md",
     "notes/outputs",
     "notes/knowledge",
     "daiily-note/2024/01-January/weekly/weekly-0128.md",
-    "daiily-note/2024/01-January/2024-01-29.md",
     "2024/01-January/2024-01-29.md",
     "daiily-note/2024/01-January/weekly/weekly-0121.md",
     "daiily-note/2024/01-January/weekly/weekly-0114.md",
@@ -227,7 +227,6 @@
     "daiily-note/2023/12-December/1002431",
     "daiily-note/2023/12-December",
     "daiily-note/2023/11-November",
-    "daiily-note/2023/10-October",
     "notes/knowledge/git/image/img_rm.png",
     "notes/knowledge/git/image/img_reset.png",
     "notes/knowledge/git/image/img_checkout.png",
