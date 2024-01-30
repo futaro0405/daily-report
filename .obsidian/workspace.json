@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loadmap.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loadmap.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loadmap.md"
+                "file": "daiily-note/2024/01-January/2024-01-30.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "282ae91b30875896",
   "lastOpenFiles": [
-    "daiily-note/2024/01-January/2024-01-30.md",
     "daiily-note/2024/01-January/2024-01-29.md",
+    "daiily-note/2024/01-January/2024-01-30.md",
     "loadmap.md",
     "conflict-files-obsidian-git.md",
     "config/templates/daily-goal.md",
