@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-29.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-29.md"
+                "file": "daiily-note/2024/01-January/2024-01-30.md"
               }
             }
           },
@@ -184,16 +184,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "8aa146b95dc898bf",
   "lastOpenFiles": [
-    "daiily-note/2024/01-January/2024-01-28.md",
     "daiily-note/2024/01-January/2024-01-29.md",
+    "daiily-note/2024/01-January/2024-01-30.md",
+    "daiily-note/2024/01-January/2024-01-28.md",
     "notes/knowledge/git/rename.md",
     "README.md",
     "daiily-note/2024/01-January/Untitled.md",
@@ -220,7 +218,6 @@
     "daiily-note/2024/01-January/2024-01-15.md",
     "daiily-note/2024/01-January/2024-01-14.md",
     "daiily-note/2024/01-January/2024-01-13.md",
-    "daiily-note/2024/01-January/2024-01-12.md",
     "daiily-note/2024/01-January",
     "daiily-note/2024",
     "daiily-note/2023/12-December/1002431/12/20232023",
