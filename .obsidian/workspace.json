@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "547610614baec133",
+            "id": "546c23d9e3e7c09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "daiily-note/2024/01-January/2024-01-30.md"
               }
             }
           },
@@ -227,18 +227,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "547610614baec133",
+  "active": "546c23d9e3e7c09b",
   "lastOpenFiles": [
-    "daiily-note/2024/01-January/2024-01-31.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "notes/knowledge/docker/cache.md",
-    "notes/knowledge/docker/bundler-version.md",
-    "daiily-note/2024/01-January/2024-01-30.md",
     "daiily-note/2024/01-January/2024-01-29.md",
     "config/templates/daily-goal.md",
+    "daiily-note/2024/01-January/2024-01-30.md",
+    "Untitled.md",
     "loadmap.md",
     "Pasted image 20240130215115.png",
+    "conflict-files-obsidian-git.md",
     "daiily-note/2024/01-January/2024-01-28.md",
     "daiily-note/2024/01-January/2024-01-27.md",
     "notes/knowledge/git/rename.md",
@@ -259,6 +256,8 @@
     "daiily-note/2024/01-January/2024-01-22.md",
     "daiily-note/2024/01-January/2024-01-21.md",
     "daiily-note/2024/01-January/2024-01-20.md",
+    "daiily-note/2024/01-January/2024-01-19.md",
+    "daiily-note/2024/01-January/2024-01-18.md",
     "daiily-note/2024/01-January",
     "daiily-note/2024",
     "daiily-note/2023/12-December/1002431/12/20232023",
