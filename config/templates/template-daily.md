@@ -30,9 +30,9 @@ text text text text
 
 # Day planner
 ## Daily routine
-- [ ] 05:50 - 06:10 wake up
-- [ ] 07:00 - 08:00 traininng
+- [ ] 05:20 - 05:40 wake up
+- [ ] 06:00 - 08:00 traininng
 - [ ] 08:00 - 08:30 shower
-- [ ] 21:00 - 22:00 get ready for bed
+- [ ] 20:30 - 21:30 get ready for bed
 ## Tasks
-- [ ] 09:00 - 21:00 every day is a happy day
+- [ ] 08:55 - 09:00 every day is a happy day
