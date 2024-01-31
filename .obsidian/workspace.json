@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "ba179361cf19898e",
+    "type": "split",
+    "children": [
+      {
+        "id": "361cc84c8329a3c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa146b95dc898bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daiily-note/2024/01-January/2024-01-29.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95b1c74e64ecfe6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daiily-note/2024/01-January/2024-01-30.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "282ae91b30875896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loadmap.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "547610614baec133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9e036e270a75008",
+    "type": "split",
+    "children": [
+      {
+        "id": "72fa8a38df136206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4250a769dbaebf9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2696249af269eff5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bad621c0d4ed57a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "93add0328c0067f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dafd44608523e9b5",
+        "type": "tabs",
+        "dimension": 33.84615384615385,
+        "children": [
+          {
+            "id": "6ad71924d6ce7d23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09ec6725bc10594a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0187e1a8683bb40c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e53562115d07c978",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09cba8c05c6ea208",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "59c3d9f6d061b152",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a08aec21d09d69f0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "eb6c04078f4f0e9c",
+        "type": "tabs",
+        "dimension": 66.15384615384615,
+        "children": [
+          {
+            "id": "6e18c45106342c46",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "547610614baec133",
+  "lastOpenFiles": [
+    "daiily-note/2024/01-January/2024-01-31.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "notes/knowledge/docker/cache.md",
+    "notes/knowledge/docker/bundler-version.md",
+    "daiily-note/2024/01-January/2024-01-30.md",
+    "daiily-note/2024/01-January/2024-01-29.md",
+    "config/templates/daily-goal.md",
+    "loadmap.md",
+    "Pasted image 20240130215115.png",
+    "daiily-note/2024/01-January/2024-01-28.md",
+    "daiily-note/2024/01-January/2024-01-27.md",
+    "notes/knowledge/git/rename.md",
+    "README.md",
+    "daiily-note/2024/01-January/Untitled.md",
+    "notes/outputs",
+    "notes/knowledge",
+    "daiily-note/2024/01-January/weekly/weekly-0128.md",
+    "2024/01-January/2024-01-29.md",
+    "daiily-note/2024/01-January/weekly/weekly-0121.md",
+    "daiily-note/2024/01-January/weekly/weekly-0114.md",
+    "daiily-note/2024/01-January/weekly/weekly-0107.md",
+    "daiily-note/2024/01-January/weekly",
+    "daiily-note/2024/01-January/2024-01-26.md",
+    "daiily-note/2024/01-January/2024-01-25.md",
+    "daiily-note/2024/01-January/2024-01-24.md",
+    "daiily-note/2024/01-January/2024-01-23.md",
+    "daiily-note/2024/01-January/2024-01-22.md",
+    "daiily-note/2024/01-January/2024-01-21.md",
+    "daiily-note/2024/01-January/2024-01-20.md",
+    "daiily-note/2024/01-January",
+    "daiily-note/2024",
+    "daiily-note/2023/12-December/1002431/12/20232023",
+    "daiily-note/2023/12-December/1002431/12",
+    "daiily-note/2023/12-December/1002431",
+    "daiily-note/2023/12-December",
+    "daiily-note/2023/11-November",
+    "notes/knowledge/git/image/img_rm.png",
+    "notes/knowledge/git/image/img_reset.png",
+    "notes/knowledge/git/image/img_checkout.png",
+    "notes/knowledge/git/image/img_diff.png",
+    "notes/knowledge/git/image/img_01.png",
+    "notes/knowledge/git/image.png",
+    "notes/knowledge/git/image-2.png",
+    "notes/knowledge/git/image-1.png",
+    "note/knowledge/git/image/img_rm.png"
+  ]
+}
