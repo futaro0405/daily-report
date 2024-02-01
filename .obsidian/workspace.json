@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-27.md",
+                "file": "notes/knowledge/docker/cache.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-27.md",
+                "file": "notes/knowledge/docker/cache.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-27.md",
+                "file": "notes/knowledge/docker/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daiily-note/2024/01-January/2024-01-27.md"
+                "file": "notes/knowledge/docker/cache.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
+    "daiily-note/2024/01-January/2024-01-27.md",
     "daiily-note/2024/01-January/2024-01-28.md",
     "daiily-note/2024/01-January/2024-01-29.md",
     "daiily-note/2024/01-January/2024-01-30.md",
@@ -220,7 +221,6 @@
     "loadmap.md",
     "Pasted image 20240130215115.png",
     "conflict-files-obsidian-git.md",
-    "daiily-note/2024/01-January/2024-01-27.md",
     "notes/knowledge/git/rename.md",
     "README.md",
     "daiily-note/2024/01-January/Untitled.md",
