@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
-                "mode": "source",
+                "file": "daiily-note/2024/01-January/2024-01-27.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
+                "file": "daiily-note/2024/01-January/2024-01-27.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
+                "file": "daiily-note/2024/01-January/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md"
+                "file": "daiily-note/2024/01-January/2024-01-27.md"
               }
             }
           },
@@ -205,8 +205,10 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
-    "daiily-note/2024/01-January/2024-01-31.md",
+    "daiily-note/2024/01-January/2024-01-28.md",
+    "daiily-note/2024/01-January/2024-01-29.md",
     "daiily-note/2024/01-January/2024-01-30.md",
+    "daiily-note/2024/01-January/2024-01-31.md",
     "daiily-note/2024/02-February/2024-02-01.md",
     "Untitled.md",
     "daiily-note/2024/02-February",
@@ -214,12 +216,10 @@
     "notes/knowledge/git/image-1.png",
     "notes/knowledge/git/image.png",
     "backVersion.md",
-    "daiily-note/2024/01-January/2024-01-29.md",
     "config/templates/daily-goal.md",
     "loadmap.md",
     "Pasted image 20240130215115.png",
     "conflict-files-obsidian-git.md",
-    "daiily-note/2024/01-January/2024-01-28.md",
     "daiily-note/2024/01-January/2024-01-27.md",
     "notes/knowledge/git/rename.md",
     "README.md",
