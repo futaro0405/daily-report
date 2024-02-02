@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/knowledge/git/branch作成.md",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/knowledge/git/branch作成.md",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/knowledge/git/branch作成.md",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/knowledge/git/branch作成.md"
+                "file": "daiily-note/2024/02-February/2024-02-02.md"
               }
             }
           },
@@ -197,10 +197,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "95b1c74e64ecfe6e",
