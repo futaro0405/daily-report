@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
-                "mode": "preview",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md",
+                "file": "daiily-note/2024/02-February/2024-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daiily-note/2024/02-February/2024-02-01.md"
+                "file": "daiily-note/2024/02-February/2024-02-02.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
-    "daiily-note/2024/01-January/2024-01-31.md",
     "daiily-note/2024/02-February/2024-02-01.md",
+    "daiily-note/2024/02-February/2024-02-02.md",
+    "daiily-note/2024/01-January/2024-01-31.md",
     "daiily-note/2024/02-February",
     "config/templates/daily-goal.md",
     "Untitled.md",
@@ -238,7 +239,6 @@
     "daiily-note/2024/01-January/2024-01-23.md",
     "daiily-note/2024/01-January/2024-01-22.md",
     "daiily-note/2024/01-January/2024-01-21.md",
-    "daiily-note/2024/01-January/2024-01-20.md",
     "daiily-note/2024/01-January",
     "daiily-note/2024",
     "daiily-note/2023/12-December/1002431/12/20232023",
