@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/02-February/2024-02-01.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/02-February/2024-02-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "daiily-note/2024/02-February/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "daiily-note/2024/02-February/2024-02-01.md"
               }
             }
           },
@@ -205,15 +205,17 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
+    "daiily-note/2024/01-January/2024-01-31.md",
+    "daiily-note/2024/02-February/2024-02-01.md",
+    "daiily-note/2024/02-February",
+    "config/templates/daily-goal.md",
+    "Untitled.md",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
     "notes/knowledge/git/image.png",
-    "daiily-note/2024/01-January/2024-01-31.md",
     "backVersion.md",
     "daiily-note/2024/01-January/2024-01-30.md",
     "daiily-note/2024/01-January/2024-01-29.md",
-    "config/templates/daily-goal.md",
-    "Untitled.md",
     "loadmap.md",
     "Pasted image 20240130215115.png",
     "conflict-files-obsidian-git.md",
@@ -243,7 +245,6 @@
     "daiily-note/2023/12-December/1002431/12",
     "daiily-note/2023/12-December/1002431",
     "daiily-note/2023/12-December",
-    "daiily-note/2023/11-November",
     "notes/knowledge/git/image/img_rm.png",
     "notes/knowledge/git/image/img_reset.png",
     "notes/knowledge/git/image/img_checkout.png",
