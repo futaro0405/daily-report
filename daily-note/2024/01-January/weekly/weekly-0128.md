@@ -19,8 +19,9 @@
 table
 date, study, score
 from "daily-note/2024/01-January"
-where file.day >= date("2024-01-28")
+where file.day >= date("2024-01-01")
 　AND file.day <= date("2024-01-31")
+sort file.day asc
 ```
 
 ```dataview
@@ -34,7 +35,7 @@ WHERE rows.date
 ```
 
 ```dataviewjs
-const pages = dv.pages('"daily-note/2024/01-January"').filter(p => p.file.name > "2024-01-27" && p.file.name < "2024-01-31").sort(p => p.file.name);
+const pages = dv.pages('"daily-note/2024/01-January"').filter(p => p.file.name > "2024-01-00" && p.file.name < "2024-01-32").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values

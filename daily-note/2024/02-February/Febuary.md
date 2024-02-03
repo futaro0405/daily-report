@@ -4,9 +4,10 @@
 ```dataview
 table
 date, study, score
-from "2024/01-January"
-where file.day >= date("2024")
-　AND file.day <= date("{{Date:YYYY-MM-DD}}")
+from "daily-note/2024/02-February"
+where file.day >= date("2024-02-01")
+　AND file.day <= date("2024-02-29")
+sort file.day asc
 ```
 
 ```dataview
@@ -14,13 +15,13 @@ table
 sum(rows.study) as total,
 length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avg
-from "2024/01-January"
+from "daily-note/2024/02-February"
 GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
 WHERE rows.date
 ```
 
 ```dataviewjs
-const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "{{Date:YYYY-MM-DD}}" && p.file.name < "{{Date:YYYY-MM-DD}}").sort(p => p.file.name);
+const pages = dv.pages('"daily-note/2024/02-February"').filter(p => p.file.name > "2024-02-00" && p.file.name < "2024-02-32").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
