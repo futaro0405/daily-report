@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2023/12-December/21.md",
+                "file": "daily-note/2023/12-December/01.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2023/12-December/21.md",
+                "file": "daily-note/2023/12-December/01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2023/12-December/21.md",
+                "file": "daily-note/2023/12-December/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2023/12-December/21.md"
+                "file": "daily-note/2023/12-December/01.md"
               }
             }
           },
@@ -192,6 +192,11 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
+    "daily-note/2023/12-December/31.md",
+    "daily-note/2023/12-December/01.md",
+    "daily-note/2024/01-January/2024-01-01.md",
+    "daily-note/2024/01-January/2024-01-31.md",
+    "daily-note/2023/12-December/21.md",
     "daily-note/2023/12-December/22.md",
     "daily-note/2023/12-December/24.md",
     "daily-note/2023/12-December/25.md",
@@ -199,8 +204,6 @@
     "daily-note/2023/12-December/28.md",
     "daily-note/2023/12-December/29.md",
     "daily-note/2023/12-December/30.md",
-    "daily-note/2023/12-December/31.md",
-    "daily-note/2024/01-January/2024-01-01.md",
     "daily-note/2024/01-January/2024-01-14.md",
     "daily-note/2024/01-January/2024-01-13.md",
     "daily-note/2024/01-January/2024-01-12.md",
@@ -215,9 +218,6 @@
     "daily-note/2024/01-January/2024-01-03.md",
     "daily-note/2024/01-January/2024-01-02.md",
     "daily-note/2024/01-January/weekly/weekly-0128.md",
-    "daily-note/2024/02-February/2024-02-02.md",
-    "daily-note/2024/02-February/2024-02-01.md",
-    "daily-note/2024/01-January/2024-01-28.md",
     "daily-note/2024/02-February",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
