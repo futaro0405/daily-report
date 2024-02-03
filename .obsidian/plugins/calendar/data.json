@@ -2,7 +2,7 @@
   "shouldConfirmBeforeCreate": false,
   "weekStart": "sunday",
   "wordsPerDot": 100,
-  "showWeeklyNote": true,
+  "showWeeklyNote": false,
   "weeklyNoteFormat": "[daily-note]/YYYY/MM-MMMM/[weekly]/[weekly]-MMDD",
   "weeklyNoteTemplate": "config/templates/templete-weekly",
   "weeklyNoteFolder": "",
