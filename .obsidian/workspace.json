@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/01-January/2024-01-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/01-January/2024-01-14.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/01-January/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md"
+                "file": "daily-note/2024/01-January/2024-01-14.md"
               }
             }
           },
@@ -192,9 +192,22 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
+    "daily-note/2024/01-January/2024-01-13.md",
+    "daily-note/2024/01-January/2024-01-12.md",
+    "daily-note/2024/01-January/2024-01-11.md",
+    "daily-note/2024/01-January/2024-01-10.md",
+    "daily-note/2024/01-January/2024-01-09.md",
+    "daily-note/2024/01-January/2024-01-08.md",
+    "daily-note/2024/01-January/2024-01-07.md",
+    "daily-note/2024/01-January/2024-01-06.md",
+    "daily-note/2024/01-January/2024-01-05.md",
+    "daily-note/2024/01-January/2024-01-04.md",
+    "daily-note/2024/01-January/2024-01-03.md",
+    "daily-note/2024/01-January/2024-01-02.md",
+    "daily-note/2024/01-January/2024-01-01.md",
+    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "daily-note/2024/02-February/2024-02-02.md",
     "daily-note/2024/02-February/2024-02-01.md",
-    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "daily-note/2024/01-January/2024-01-28.md",
     "daily-note/2024/02-February/2024-02-03.md",
     "daily-note/2024/01-January/2024-01-31.md",
@@ -205,26 +218,13 @@
     "notes/knowledge/docker/cache.md",
     "notes/knowledge/docker/bundler-version.md",
     "notes/knowledge/git/delete-branch.md",
-    "notes/knowledge/Ruby-on-Rails/Controller.md",
-    "notes/knowledge/Ruby-on-Rails/Model.md",
-    "notes/knowledge/Ruby-on-Rails/MVC.md",
-    "notes/knowledge/Ruby-on-Rails/View.md",
-    "config/templates/daily-goal.md",
-    "conflict-files-obsidian-git.md",
     "daily-note/2024/02-February",
-    "Untitled.md",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
     "notes/knowledge/git/image.png",
-    "backVersion.md",
-    "loadmap.md",
     "Pasted image 20240130215115.png",
-    "notes/knowledge/git/rename.md",
-    "README.md",
-    "daiily-note/2024/01-January/Untitled.md",
     "notes/outputs",
     "notes/knowledge",
-    "2024/01-January/2024-01-29.md",
     "daily-note/2024/01-January/weekly",
     "daily-note/2024/01-January",
     "daily-note/2024",
