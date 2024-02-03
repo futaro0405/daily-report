@@ -8,13 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c12026bac4c0d14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-note/2024/02-February/2024-02-02.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7cfe18b778feb759",
+        "type": "tabs",
+        "children": [
+          {
             "id": "95b1c74e64ecfe6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
-                "mode": "preview",
+                "file": "daily-note/2024/02-February/2024-02-03.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/02-February/2024-02-03.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/02-February/2024-02-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md"
+                "file": "daily-note/2024/02-February/2024-02-03.md"
               }
             }
           },
@@ -192,6 +210,9 @@
   },
   "active": "95b1c74e64ecfe6e",
   "lastOpenFiles": [
+    "daily-note/2024/02-February/2024-02-02.md",
+    "daily-note/2024/02-February/2024-02-03.md",
+    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "daily-note/2024/01-January/2024-01-09.md",
     "daily-note/2024/01-January/2024-01-08.md",
     "daily-note/2024/01-January/2024-01-07.md",
@@ -201,7 +222,6 @@
     "daily-note/2024/01-January/2024-01-03.md",
     "daily-note/2024/01-January/2024-01-02.md",
     "daily-note/2024/01-January/2024-01-01.md",
-    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "daily-note/2024/02-February/Febuary.md",
     "daily-note/2024/01-January/2024-01-27.md",
     "daily-note/2024/01-January/weekly/weekly-0121.md",
@@ -216,8 +236,6 @@
     "daily-note/2024/01-January/2024-01-31.md",
     "daily-note/2023/12-December/21.md",
     "daily-note/2023/12-December/22.md",
-    "daily-note/2023/12-December/24.md",
-    "daily-note/2023/12-December/25.md",
     "daily-note/2024/02-February",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
