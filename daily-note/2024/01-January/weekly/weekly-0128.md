@@ -1,11 +1,12 @@
 ## 自己評価
-/100
+30/100
 ## 勉強時間
-00 h
+14 h
 ## 良かったこと
-- xxxxx
+- 英語の勉強を始められたこと
+- どれだけ忙しくても最低1時間は勉強できたこと
 ## 悪かったこと
-- xxxxx
+- 生活サイクルを回すために
 ## 改善すること(ネクストアクション)
 - xxxxx
 ## 質問・相談など(もしあれば)
@@ -17,9 +18,9 @@
 ```dataview
 table
 date, study, score
-from "2024/01-January"
+from "daily-note/2024/01-January"
 where file.day >= date("2024-01-28")
-　AND file.day <= date("2024-01-28")
+　AND file.day <= date("2024-01-31")
 ```
 
 ```dataview
@@ -27,13 +28,13 @@ table
 sum(rows.study) as total,
 length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avg
-from "2024/01-January"
+from "daily-note/2024/01-January"
 GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
 WHERE rows.date
 ```
 
 ```dataviewjs
-const pages = dv.pages('"2024/01-January"').filter(p => p.file.name > "2024-01-28" && p.file.name < "2024-01-28").sort(p => p.file.name);
+const pages = dv.pages('"daily-note/2024/01-January"').filter(p => p.file.name > "2024-01-27" && p.file.name < "2024-01-31").sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
