@@ -40,3 +40,14 @@ def change
 ```
 bin/rails g controller Admin::Users new edit show index
 ```
+
+```config/routes.rb
+Rails.application.routes.draw do
+	namespace :admin do
+		resources :users
+	end
+
+	root to: 'tasks#index'
+	...
+end
+```
