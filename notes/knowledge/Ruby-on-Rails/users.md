@@ -35,3 +35,8 @@ bin/rails g migration add_admin_to_users
 def change
 	add_column :users, :admin, :boolean, default: false, null: false
 ```
+
+## controllerを作成
+```
+bin/rails g controller Admin::Users new edit show index
+```
