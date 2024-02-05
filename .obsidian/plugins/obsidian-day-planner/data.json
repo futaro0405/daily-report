@@ -21,7 +21,7 @@
   "defaultDurationMinutes": 30,
   "showTimestampInTaskBlock": false,
   "unscheduledTasksHeight": 100,
-  "showUncheduledTasks": true,
+  "showUncheduledTasks": false,
   "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true
