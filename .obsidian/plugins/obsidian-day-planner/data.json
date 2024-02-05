@@ -22,7 +22,7 @@
   "showTimestampInTaskBlock": false,
   "unscheduledTasksHeight": 100,
   "showUncheduledTasks": true,
-  "showUnscheduledNestedTasks": true,
+  "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true
 }
