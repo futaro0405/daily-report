@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
-                "mode": "preview",
+                "file": "daily-note/2024/02-February/2024-02-04.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/02-February/2024-02-04.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md",
+                "file": "daily-note/2024/02-February/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-note/2024/01-January/weekly/weekly-0128.md"
+                "file": "daily-note/2024/02-February/2024-02-04.md"
               }
             }
           },
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,17 +203,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "595075c74377d528",
+  "active": "4250a769dbaebf9b",
   "lastOpenFiles": [
-    "daily-note/2024/02-February/2024-02-04.md",
     "daily-note/2024/02-February/2024-02-03.md",
+    "daily-note/2024/02-February/2024-02-04.md",
+    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "config/templates/daily-goal.md",
     "config/templates/template-daily.md",
     "notes/knowledge/git/branch作成.md",
     "notes/knowledge/Ruby-on-Rails/users.md",
     "notes/knowledge/git/delete-branch.md",
     "daily-note/2024/02-February/2024-02-02.md",
-    "daily-note/2024/01-January/weekly/weekly-0128.md",
     "daily-note/2024/01-January/2024-01-09.md",
     "daily-note/2024/01-January/2024-01-08.md",
     "daily-note/2024/01-January/2024-01-07.md",
