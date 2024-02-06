@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/Controller.md",
+                "file": "notes/knowledge/Ruby-on-Rails/users.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cb0759002205a858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/knowledge/Ruby-on-Rails/authentication.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/Controller.md",
+                "file": "notes/knowledge/Ruby-on-Rails/authentication.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/Controller.md",
+                "file": "notes/knowledge/Ruby-on-Rails/authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/Controller.md"
+                "file": "notes/knowledge/Ruby-on-Rails/authentication.md"
               }
             }
           },
@@ -191,13 +204,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2ebc3de07715e7cc",
+  "active": "cb0759002205a858",
   "lastOpenFiles": [
+    "notes/knowledge/Ruby-on-Rails/users.md",
+    "notes/knowledge/Ruby-on-Rails/authentication.md",
     "notes/knowledge/Ruby-on-Rails/Model.md",
     "notes/knowledge/Ruby-on-Rails/Controller.md",
+    "daily-note/2024/02-February/2024-02-06.md",
     "notes/knowledge/Ruby-on-Rails/View.md",
     "notes/knowledge/Ruby-on-Rails/MVC.md",
-    "daily-note/2024/02-February/2024-02-06.md",
     "daily-note/2024/02-February/2024-02-05.md",
     "daily-note/2024/02-February/2024-02-04.md",
     "daily-note/2024/02-February/2024-02-03.md",
@@ -206,7 +221,6 @@
     "notes/knowledge/git/branch作成.md",
     "daily-note/2024/01-January/weekly/weekly-0128.md",
     "config/templates/template-daily.md",
-    "notes/knowledge/Ruby-on-Rails/users.md",
     "notes/knowledge/git/delete-branch.md",
     "daily-note/2024/01-January/2024-01-09.md",
     "daily-note/2024/01-January/2024-01-08.md",
@@ -218,7 +232,6 @@
     "daily-note/2024/01-January/2024-01-02.md",
     "daily-note/2024/01-January/2024-01-01.md",
     "daily-note/2024/02-February/Febuary.md",
-    "daily-note/2024/01-January/2024-01-27.md",
     "daily-note/2024/02-February",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
