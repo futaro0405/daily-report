@@ -16,5 +16,5 @@ HTTPプロトコルの情報だけではアクセスしてきたユーザーが�
 `bcrypt`を使用
 
 ```
-rails g model user name:string
+rails g model user name:string email:string password_digest:string
 ```
