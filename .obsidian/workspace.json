@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/users.md",
+                "file": "daily-note/2024/02-February/2024-02-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/users.md",
+                "file": "daily-note/2024/02-February/2024-02-08.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/users.md",
+                "file": "daily-note/2024/02-February/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/knowledge/Ruby-on-Rails/users.md"
+                "file": "daily-note/2024/02-February/2024-02-08.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   },
   "active": "cb0759002205a858",
   "lastOpenFiles": [
-    "notes/knowledge/Ruby-on-Rails/authentication.md",
     "notes/knowledge/Ruby-on-Rails/users.md",
+    "daily-note/2024/02-February/2024-02-08.md",
+    "notes/knowledge/Ruby-on-Rails/authentication.md",
     "notes/knowledge/Ruby-on-Rails/Model.md",
     "notes/knowledge/Ruby-on-Rails/Controller.md",
     "daily-note/2024/02-February/2024-02-06.md",
@@ -231,7 +232,6 @@
     "daily-note/2024/01-January/2024-01-03.md",
     "daily-note/2024/01-January/2024-01-02.md",
     "daily-note/2024/01-January/2024-01-01.md",
-    "daily-note/2024/02-February/Febuary.md",
     "daily-note/2024/02-February",
     "notes/knowledge/git/image-2.png",
     "notes/knowledge/git/image-1.png",
