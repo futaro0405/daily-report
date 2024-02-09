@@ -7,7 +7,7 @@
   "endLabel": "All done",
   "startHour": 5,
   "timelineDateFormat": "YYYY-MM-DD",
-  "centerNeedle": true,
+  "centerNeedle": false,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
   "timelineColored": true,
@@ -21,7 +21,7 @@
   "defaultDurationMinutes": 30,
   "showTimestampInTaskBlock": false,
   "unscheduledTasksHeight": 100,
-  "showUncheduledTasks": false,
+  "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true
