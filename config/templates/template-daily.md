@@ -22,8 +22,10 @@ meal: 100
 ## 感じたこと
 text text text text text text text text text text text text
 ## 学習時間
-- TODAY: 00 h
-- TOTAL: 000 h
+|       | time  | 
+| ----- | ----- |
+| TODAY | 00 h   |
+| TOTAL | 000 h |
 # What I read
 ## text 
 text text text text
