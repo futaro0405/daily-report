@@ -1,6 +1,6 @@
 {
-  "folder": "",
+  "folder": "daily-note/2024/02-February",
   "format": "[daily-note]/YYYY/MM-MMMM/YYYY-MM-DD",
-  "autorun": true,
+  "autorun": false,
   "template": "config/templates/template-daily"
 }
