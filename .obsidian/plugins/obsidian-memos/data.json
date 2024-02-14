@@ -30,7 +30,7 @@
   "DefaultMemoComposition": "{TIME} {CONTENT}",
   "CommentOnMemos": false,
   "CommentsInOriginalNotes": false,
-  "FetchMemosMark": "#memo",
+  "FetchMemosMark": "#memos",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
   "ShowLeftSideBar": false
