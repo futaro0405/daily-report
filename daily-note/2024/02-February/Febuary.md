@@ -151,11 +151,11 @@ window.renderChart(dailyStudy, this.container)
 
 ## 3rd
 ### 自己評価
-00/100
+40/100
 ### 勉強時間
-00 h
+30 h
 ### 良かったこと
-- text text text
+- 平日の勉強時間を
 ### 悪かったこと
 - text text text
 ### 改善すること(ネクストアクション)
