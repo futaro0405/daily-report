@@ -175,10 +175,10 @@ window.renderChart(dailyStudy, this.container)
 ### 勉強時間
 21 h
 ### 良かったこと
-- text text text
+- 天気が悪い日が続いたがジムにかよいつづけた
 ### 悪かったこと
 - 先週より勉強時間が少し落ちた
-- 
+- あまり勉強に集中できていない
 ### 改善すること(ネクストアクション)
 - text text text
 ### 質問・相談など(もしあれば)
