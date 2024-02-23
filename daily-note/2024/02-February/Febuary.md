@@ -177,7 +177,8 @@ window.renderChart(dailyStudy, this.container)
 ### 良かったこと
 - text text text
 ### 悪かったこと
-- text text text
+- 先週より勉強時間が少し落ちた
+- 
 ### 改善すること(ネクストアクション)
 - text text text
 ### 質問・相談など(もしあれば)
