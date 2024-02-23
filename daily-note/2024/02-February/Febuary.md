@@ -173,7 +173,7 @@ window.renderChart(dailyStudy, this.container)
 ### 自己評価
 40/100
 ### 勉強時間
-00 h
+21 h
 ### 良かったこと
 - text text text
 ### 悪かったこと
