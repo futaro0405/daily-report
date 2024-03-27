@@ -6,7 +6,7 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "vimMode": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "showIndentGuide": false,
   "tabSize": 2,
   "spellcheck": false,
