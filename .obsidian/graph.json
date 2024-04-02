@@ -6,15 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:2024/01-January  ",
-      "color": {
-        "a": 1,
-        "rgb": 884050
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -25,6 +17,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 391,
-  "scale": 0.3628873693012149,
+  "scale": 0.23787207308096694,
   "close": false
 }
