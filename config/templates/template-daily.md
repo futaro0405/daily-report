@@ -1,10 +1,9 @@
 ---
 date: {{Date:YYYY-MM-DD}}
 weekly: {{Date:wo}}
-score: 000
-sleep: 00
+traning: 0
+sleep: 0
 study: 0
-total: 000
 tags: {{Date:wo}} {{Date:YYYYMM}} 
 ---
 # Daily Report({{date:YYYY-MM-DD}})

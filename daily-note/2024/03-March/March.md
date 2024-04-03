@@ -3,50 +3,28 @@
 
 ```dataview
 table
-sum(rows.study) as total,
-length(rows) as count,
-round(sum(rows.study) / length(rows), 0) as avg
+sum(rows.study) as "total(study)",
+length(rows) as "count(day)",
+round(sum(rows.study) / length(rows), 0) as "avg(study)"
 from "daily-note/2024/03-March"
 GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week + "th" as date
 WHERE rows.date
 ```
 
 ```dataviewjs
-const pages = dv.pages('"daily-note/2024/03-March"').filter(p => p.file.name > "2024-03-00" && p.file.name < "2024-03-32").sort(p => p.file.name);
+const pages = dv.
+pages('"daily-note/2024/03-March"').
+filter(p => p.file.name > "2024-03-00" && p.file.name < "2024-03-32").
+sort(p => p.file.name);
 
 function extract(pages, key) {
   return pages.map(p => p[key]).values
 }
 
 const days = pages.map(p => p.file.name).values  
-const totals =  extract(pages, 'total')
+const tranings =  extract(pages, 'traning')
+const sleeps =  extract(pages, 'sleep')
 const studies = extract(pages, 'study')
-
-function scoreChart(terms, data) {
-  return {
-    type: 'line',
-    options: {
-	    width: '100%',
-		scales: {
-			y: {
-				beginAtZero: true
-			}
-		}
-	},
-    data: {
-      labels: terms,
-      datasets: [{
-        label: 'score',
-        data: data,
-        backgroundColor: ['rgba(255, 99, 132, 0.1)'],  
-        borderColor: ['rgba(255, 99, 132, 1)'],  
-        borderWidth: 1,
-        tension: 0.2,
-		fill: true,
-      }]
-    }
-  }
-}
 
 function studyChart(terms, data) {
   return {
@@ -74,19 +52,19 @@ function studyChart(terms, data) {
   }
 }
 
-function barChart(terms, totals, studies) {
+function barChart(terms, tranings, sleeps) {
   return {
     type: 'bar',
     data: {
       labels: terms,
       datasets: [{
-        label: 'totals',
-        data: totals,
+        label: 'tranings',
+        data: tranings,
         borderColor: ['rgba(99, 132, 255, 1)'],
         backgroundColor: ['rgba(99, 132, 255, 0.7)']
       },{
-        label: 'studies',
-        data: studies,
+        label: 'sleeps',
+        data: sleeps,
         borderColor: ['rgba(255, 99, 132, 1)'],
         backgroundColor: ['rgba(255, 99, 132, 0.7)']
       }]
@@ -95,10 +73,10 @@ function barChart(terms, totals, studies) {
 }
 
 const dailyScore = scoreChart(days, totals)
-const dailyStudy = studyChart(days, studies)
+const dailyBar = barChart(days, tranings, sleeps)
 
 window.renderChart(dailyScore, this.container)
-window.renderChart(dailyStudy, this.container)
+window.renderChart(dailyBar, this.container)
 ```
 
 
