@@ -13,4 +13,5 @@ Users
 - birth_date
 - uid
 - provider
-- 
+- image_avatar
+- image_cover
