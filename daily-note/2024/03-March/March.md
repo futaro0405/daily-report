@@ -3,15 +3,6 @@
 
 ```dataview
 table
-date, study, score
-from "daily-note/2024/03-March"
-where file.day >= date("2024-03-01")
-　AND file.day <= date("2024-03-31")
-sort file.day asc
-```
-
-```dataview
-table
 sum(rows.study) as total,
 length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avg
@@ -28,7 +19,7 @@ function extract(pages, key) {
 }
 
 const days = pages.map(p => p.file.name).values  
-const scores =  extract(pages, 'score')
+const totals =  extract(pages, 'total')
 const studies = extract(pages, 'study')
 
 function scoreChart(terms, data) {
@@ -83,14 +74,14 @@ function studyChart(terms, data) {
   }
 }
 
-function barChart(terms, scores, studies) {
+function barChart(terms, totals, studies) {
   return {
     type: 'bar',
     data: {
       labels: terms,
       datasets: [{
-        label: 'scores',
-        data: scores,
+        label: 'totals',
+        data: totals,
         borderColor: ['rgba(99, 132, 255, 1)'],
         backgroundColor: ['rgba(99, 132, 255, 0.7)']
       },{
@@ -103,7 +94,7 @@ function barChart(terms, scores, studies) {
   }
 }
 
-const dailyScore = scoreChart(days, scores)
+const dailyScore = scoreChart(days, totals)
 const dailyStudy = studyChart(days, studies)
 
 window.renderChart(dailyScore, this.container)
