@@ -7,7 +7,7 @@ sum(rows.study) as total,
 length(rows) as count,
 round(sum(rows.study) / length(rows), 0) as avg
 from "daily-note/2024/03-March"
-GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week as date
+GROUP BY date(date).year + "-" + date(date).month + "-" + date(date).week + "th" as date
 WHERE rows.date
 ```
 
