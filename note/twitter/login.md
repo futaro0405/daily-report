@@ -15,3 +15,7 @@ Users
 - provider
 - image_avatar
 - image_cover
+- profile
+- location
+- website
+
