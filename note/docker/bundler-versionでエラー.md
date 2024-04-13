@@ -1,8 +1,13 @@
+---
+tags: docker
+---
+## エラー内容
 ```bash
 Calling `DidYouMean::SPELL_CHECKERS.merge!(error_name => spell_checker)' has been deprecated. Please call `DidYouMean.correct_error(error_name, spell_checker)' instead.
 Bundler version x.x.xx
 ```
 
+## 対処法
 Dockerfileを更新しbundlerのversionを更新
 ```Dockerfile
 RUN bundle install
