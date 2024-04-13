@@ -1,5 +1,5 @@
 ---
-
+tags: PowerShell oh-my-posh
 ---
 
 ## oh-my-posh

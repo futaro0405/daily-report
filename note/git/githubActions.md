@@ -1,3 +1,6 @@
+---
+tags: git
+---
 # 【Github Actions】Vite+Reactのプロジェクトを自動デプロイしてみた【github Pages】
 
 ## はじめに
