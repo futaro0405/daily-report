@@ -1,3 +1,6 @@
+---
+tags: ruby-on-Rails
+---
 ## validates
 
 | validate                                         | helper                                                               |

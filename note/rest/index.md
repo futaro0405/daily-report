@@ -1,5 +1,5 @@
 ---
-tags: javascript
+tags: rest
 ---
 ## webの仕組み
 クライアントからサーバーにリクエスト
