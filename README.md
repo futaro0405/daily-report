@@ -1,0 +1,1 @@
+DailyNote and KnowledgeNote
