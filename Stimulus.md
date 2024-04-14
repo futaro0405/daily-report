@@ -4,3 +4,11 @@ javascriptをあまり書かずに今どきのリッチなアプリケーショ�
 Hotwireは大きくは「Turbo + Stimulus」の要素で構成されている。
 ## Stimulusについて
 DOM操作をさせるもの
+## 使い方
+使う場合はgemをインストールする
+```
+gem "stimulus-rails"
+```
+
+```app/javascript/application.js
+```
