@@ -6,10 +6,11 @@ Hotwireは大きくは「Turbo + Stimulus」の要素で構成されている。
 DOM操作をさせるもの
 ## 使い方
 使う場合はgemをインストールする
-```
+```gemfile
 gem "stimulus-rails"
 ```
 
-```
+```terminal
 rails generate stimulus issen
 ```
+
