@@ -10,5 +10,6 @@ DOM操作をさせるもの
 gem "stimulus-rails"
 ```
 
-```app/javascript/application.js
+```
+rails generate stimulus issen
 ```
