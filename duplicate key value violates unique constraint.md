@@ -1,7 +1,7 @@
 # duplicate key value violates unique constraint
 
 ```
-select setval('テーブル名_重複してるカラム_seq',(select max(id) from テーブル名));
+select setval('users_id_seq',(select max(id) from users));
 ```
 
 ## ref
